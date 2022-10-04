@@ -24,7 +24,7 @@ namespace Message
             try
             {
                 WebClient client = new WebClient();
-                Stream s = client.OpenRead(string.Format("https://platform.clickatell.com/messages/http/send?apiKey=CxvF3WkhRn2V3xH4qHh5aw==&to={0}&content={1}", txtTo.Text, txtMessage.Text));//Este link lo genera una pagina llamaca ClickTell, la cual contiene una key que deberas colocar aca y personalizarla, los espcaciones de memoria son para recibir especificamente ese texto.
+                Stream s = client.OpenRead(string.Format("APIKEY{0}{1}", txtTo.Text, txtMessage.Text));//Este link lo genera una pagina llamaca ClickTell, la cual contiene una key que deberas colocar aca y personalizarla, los espcaciones de memoria son para recibir especificamente ese texto.
 
                 StreamReader reader = new StreamReader(s);
                 string result = reader.ReadToEnd();
