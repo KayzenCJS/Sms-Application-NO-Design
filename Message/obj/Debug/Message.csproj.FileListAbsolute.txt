@@ -1,0 +1,10 @@
+C:\Users\Clau\source\repos\Message\Message\bin\Debug\Message.exe.config
+C:\Users\Clau\source\repos\Message\Message\bin\Debug\Message.exe
+C:\Users\Clau\source\repos\Message\Message\bin\Debug\Message.pdb
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.csproj.AssemblyReference.cache
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.Properties.Resources.resources
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.csproj.GenerateResource.cache
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.csproj.CoreCompileInputs.cache
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.exe
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.pdb
+C:\Users\Clau\source\repos\Message\Message\obj\Debug\Message.Sms.resources
